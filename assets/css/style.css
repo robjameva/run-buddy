@@ -23,13 +23,6 @@ header h1 {
     display: inline;
 }
 
-footer h2 {
-    display: inline;
-    color: #024e76;
-    font-size: 30px;
-    margin: 0;
-}
-
 header a {
     text-decoration: none;
     color: #fce138;
@@ -48,6 +41,13 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
 }
 
 footer {
@@ -132,11 +132,6 @@ section {
     margin: 0 auto;
 }
 
-.steps {
-    text-align: center;
-    background-color: #fce138;
-}
-
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -144,6 +139,7 @@ section {
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     border-color: #39a6b2;
+    display: inline-block;
 }
 
 .primary-border {
@@ -152,6 +148,11 @@ section {
 
 .secondary-border {
     border-color: #39a6b2;
+}
+
+.steps {
+    text-align: center;
+    background-color: #fce138;
 }
 
 .steps div {
@@ -167,6 +168,10 @@ section {
     color: #024e76;
     font-size: 46px;
     margin-top: 10px;
+}
+
+.steps p {
+    color: #39a6b2;
 }
 
 .steps span {
