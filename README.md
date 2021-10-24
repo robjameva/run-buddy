@@ -12,3 +12,5 @@ https://robjameva.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Rob Evanik
+
+### ©️2019 Run Buddy, Inc 
