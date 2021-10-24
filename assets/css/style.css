@@ -76,6 +76,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    transform: scaleX(-1);
 }
 
 .hero-form {
